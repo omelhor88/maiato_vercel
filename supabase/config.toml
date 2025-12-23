@@ -1,0 +1,4 @@
+project_id = "gsojyeqdbvakbwfoepyl"
+
+[functions.create-temp-admin]
+verify_jwt = false
